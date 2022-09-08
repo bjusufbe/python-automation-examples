@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+markers = [
+    "first_set",
+    "second_set",
+    "third_set",
+    "ui_set",
+]
